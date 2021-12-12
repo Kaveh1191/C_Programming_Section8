@@ -1,0 +1,3 @@
+G:/University/term 3/barname sazi 2/projects/section 8/exercise 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/University/term 3/barname sazi 2/projects/section 8/exercise 4/cmake-build-debug/CMakeFiles/exercise_4.dir
+G:/University/term 3/barname sazi 2/projects/section 8/exercise 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
